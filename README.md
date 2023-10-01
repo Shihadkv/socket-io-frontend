@@ -65,7 +65,7 @@ This project is licensed under the [shihad](LICENSE) - see the [LICENSE](LICENSE
 
 ## Acknowledgments
 
-Special thanks to [Name] for inspiration and guidance.
+Creating room and building scalable socket io will be the next !.
 ```
 
 Make sure to replace `https://github.com/Shihadkv/socket-io-frontend.git`, `socket-io-frontend`, and `[License Name]` with your actual project details and license information. You can also include specific acknowledgments or references as needed.
